@@ -3,6 +3,8 @@ from django.shortcuts import render
 from django.contrib.auth import authenticate, login
 from django import forms
 from django.contrib.auth.models import User
+from django.contrib.auth.decorators import login_required
+from .forms import LoginForm, UserRegistrationForm
 
 class LoginForm(forms.Form):
       username = forms.CharField()
