@@ -11,6 +11,7 @@
         <span class="logo">Bookmarks</span>
         {% if request.user.is_authenticated %}
         <ul class="menu">
+            <li {% if section == "dashboard" %}class="selected"{% endif %}>
    </div>
    <div id="content">
         {% block content %}
