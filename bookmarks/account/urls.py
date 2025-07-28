@@ -9,7 +9,7 @@ urlpatterns = [
 
     # change password urls
     path('password-change/',
- auth_views.PasswordChangeView.as_view(),
+         auth_views.PasswordChangeView.as_view(),
          name='password_change'),
  path('password-change/done/',
       auth_views.PasswordChangeDoneView.as_view(),
