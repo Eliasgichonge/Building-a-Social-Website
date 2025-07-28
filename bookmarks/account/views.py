@@ -11,3 +11,11 @@ def user_login(request):
             user = authenticate(request,
                                username=cd['username'],
                                password=cd['password'])
+            if user is not None:
+                if user.is_active:
+                    login(request, user)
+                return HttpResponse('Authenticated successfully')
+                else:
+                return HttpResponse('Disabled account')
+                else:
+                return HttpResponse('Invalid login')
