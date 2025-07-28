@@ -275,3 +275,20 @@ img.user-detail {
     font-style:italic;
     color:#ccc;
 }
+
+/* Makes the logout button look like a normal link */
+.link-button {
+  background: none;
+  border: none;
+  color: inherit;
+  font: inherit;
+  cursor: pointer;
+  padding: 0;
+  margin-left: 0.4em;
+  text-decoration: underline;
+}
+
+.link-button:hover {
+  color: #fff;
+  text-decoration: none;
+}
