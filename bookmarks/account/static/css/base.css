@@ -285,7 +285,7 @@ img.user-detail {
   cursor: pointer;
   padding: 0;
   margin-left: 0.4em;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .link-button:hover {
