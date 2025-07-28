@@ -4,7 +4,7 @@ from django.contrib.auth import authenticate, login
 from django import forms
 from django.contrib.auth.models import User
 from django.contrib.auth.decorators import login_required
-from .forms import LoginForm, UserRegistrationForm
+# from .forms import LoginForm, UserRegistrationForm
 
 # If you plan to use LoginForm and UserRegistrationForm in a separate forms.py,
 # make sure not to redefine them here.
