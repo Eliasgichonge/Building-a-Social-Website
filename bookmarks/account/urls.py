@@ -17,7 +17,7 @@ urlpatterns = [
     # reset password urls
     path('password-reset/',
          auth_views.PasswordResetView.as_view(),
- name='password_reset'),
+         name='password_reset'),
     path('password-reset/done/',
          auth_views.PasswordResetDoneView.as_view(),
          name='password_reset_done'),
