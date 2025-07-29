@@ -5,6 +5,7 @@ from django.shortcuts import render, redirect
 from .forms import LoginForm, UserRegistrationForm, \
     UserEditForm, ProfileEditForm
 from .models import Profile
+from django.contrib import messages
 
 # Dashboard view (protected)
 @login_required
