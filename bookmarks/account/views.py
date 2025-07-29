@@ -62,7 +62,7 @@ def edit(request):
           profile_form.save()
     else:
          user_form = UserEditForm(instance=request.user)
- profile_form = ProfileEditForm(
+         profile_form = ProfileEditForm(
  instance=request.user.profile)
  return render(request,
  'account/edit.html',
