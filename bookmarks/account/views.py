@@ -1,7 +1,6 @@
 from django.http import HttpResponse
 from django.contrib.auth import authenticate, login
 from django.contrib.auth.decorators import login_required
-from .forms import LoginForm
 from .forms import LoginForm, UserRegistrationForm, \UserEditForm, ProfileEditForm
 from django.shortcuts import render, redirect
 from .forms import UserRegistrationForm
