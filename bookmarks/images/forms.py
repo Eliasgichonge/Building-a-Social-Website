@@ -22,10 +22,6 @@ def clean_url(self):
     return url
 
 
-from django.core.files.base import ContentFile
-from django.utils.text import slugify
-import requests
-
 
 def save(self, force_insert=False, force_update=False, commit=True):
     image = super().save(commit=False)
