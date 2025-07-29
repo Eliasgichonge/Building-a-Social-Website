@@ -24,7 +24,7 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('account/', include('account.urls')),
     path('social-auth/',
- include('social_django.urls', namespace='social')),
+         include('social_django.urls', namespace='social')),
 
     # ... other URLs
     path('reset/<uidb64>/<token>/',
