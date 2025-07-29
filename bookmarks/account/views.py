@@ -5,6 +5,7 @@ from .forms import LoginForm
 from django.shortcuts import render, redirect
 from .forms import UserRegistrationForm
 from django.contrib.auth import login, authenticate
+from .models import Profile
 
 @login_required
 def dashboard(request):
