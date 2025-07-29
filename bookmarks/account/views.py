@@ -66,7 +66,7 @@ def edit(request):
             profile_form.save()
             messages.success(request, 'Profile updated ' \
                                       'successfully')
-            else:
+        else:
             messages.error(request, 'Error updating your profile')
             return redirect('dashboard')  # Optional success redirect
     else:
