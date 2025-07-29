@@ -20,3 +20,26 @@ def clean_url(self):
         raise forms.ValidationError('The given URL does not ' \
                                     'match valid image extensions.')
     return url
+
+
+from django.core.files.base import ContentFile
+from django.utils.text import slugify
+import requests
+
+
+def save(self, force_insert=False, force_update=False, commit=True):
+    image = super().save(commit=False)
+    image_url = self.cleaned_data['url']
+    name = slugify(image.title)
+    extension = image_url.rsplit('.', 1)[1].lower()
+    image_name = f'{name}.{extension}'
+
+    # Download the image from the given URL
+    response = requests.get(image_url)
+    if response.status_code == 200:
+        image.image.save(image_name, ContentFile(response.content), save=False)
+
+    if commit:
+        image.save()
+
+    return image
