@@ -3,9 +3,7 @@ from .models import Image
 from django.core.files.base import ContentFile
 from django.utils.text import slugify
 import requests
-from django.core.files.base import ContentFile
-from django.utils.text import slugify
-import requests
+
 
 class ImageCreateForm(forms.ModelForm):
       class Meta:
