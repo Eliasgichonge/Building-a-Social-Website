@@ -75,5 +75,4 @@ def edit(request):
 
     return render(request, 'account/edit.html', {
         'user_form': user_form,
-        'profile_form': profile_form
-    })
+        'profile_form': profile_form})
