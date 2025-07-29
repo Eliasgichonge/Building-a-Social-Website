@@ -6,5 +6,5 @@ class ImageCreateForm(forms.ModelForm):
           model = Image
           fields = ['title', 'url', 'description']
           widgets = {
- 'url': forms.HiddenInput,
+              'url': forms.HiddenInput,
  }
