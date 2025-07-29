@@ -148,3 +148,6 @@ EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 
 SOCIAL_AUTH_TWITTER_KEY = 'XXX' # Twitter API Key
 SOCIAL_AUTH_TWITTER_SECRET = 'XXX' # Twitter API Secret
+
+SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = 'XXX' # Google Client ID
+SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = 'XXX' # Google Client Secret
