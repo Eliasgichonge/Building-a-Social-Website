@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df262373-843c-400c-b401-34bebca0af11" name="Changes" comment="Using Django authentication views&#10;Login and logout views" />
+    <list default="true" id="df262373-843c-400c-b401-34bebca0af11" name="Changes" comment="Using Django authentication views&#10;Login and logout views">
+      <change beforePath="$PROJECT_DIR$/bookmarks/account/templates/registration/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/bookmarks/account/templates/registration/login.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +40,7 @@
     <setting file="file://$PROJECT_DIR$/bookmarks/account/static/css/base.css" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/bookmarks/account/templates/account/login.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/bookmarks/account/templates/base.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/bookmarks/account/templates/registration/login.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/bookmarks/account/urls.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/bookmarks/bookmarks/settings.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/bookmarks/bookmarks/urls.py" root0="SKIP_INSPECTION" />
@@ -83,46 +86,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1753520400933</updated>
-    </task>
-    <task id="LOCAL-00505" summary="Overriding the save() method of a ModelForm">
-      <option name="closed" value="true" />
-      <created>1753791173809</created>
-      <option name="number" value="00505" />
-      <option name="presentableId" value="LOCAL-00505" />
-      <option name="project" value="LOCAL" />
-      <updated>1753791173809</updated>
-    </task>
-    <task id="LOCAL-00506" summary="Overriding the save() method of a ModelForm">
-      <option name="closed" value="true" />
-      <created>1753791208122</created>
-      <option name="number" value="00506" />
-      <option name="presentableId" value="LOCAL-00506" />
-      <option name="project" value="LOCAL" />
-      <updated>1753791208122</updated>
-    </task>
-    <task id="LOCAL-00507" summary="Overriding the save() method of a ModelForm">
-      <option name="closed" value="true" />
-      <created>1753791218987</created>
-      <option name="number" value="00507" />
-      <option name="presentableId" value="LOCAL-00507" />
-      <option name="project" value="LOCAL" />
-      <updated>1753791218987</updated>
-    </task>
-    <task id="LOCAL-00508" summary="Overriding the save() method of a ModelForm">
-      <option name="closed" value="true" />
-      <created>1753791356255</created>
-      <option name="number" value="00508" />
-      <option name="presentableId" value="LOCAL-00508" />
-      <option name="project" value="LOCAL" />
-      <updated>1753791356255</updated>
-    </task>
-    <task id="LOCAL-00509" summary="Overriding the save() method of a ModelForm">
-      <option name="closed" value="true" />
-      <created>1753791396927</created>
-      <option name="number" value="00509" />
-      <option name="presentableId" value="LOCAL-00509" />
-      <option name="project" value="LOCAL" />
-      <updated>1753791396927</updated>
     </task>
     <task id="LOCAL-00510" summary="Overriding the save() method of a ModelForm">
       <option name="closed" value="true" />
@@ -476,7 +439,47 @@
       <option name="project" value="LOCAL" />
       <updated>1754055271265</updated>
     </task>
-    <option name="localTasksCounter" value="554" />
+    <task id="LOCAL-00554" summary="Using Django authentication views&#10;Login and logout views">
+      <option name="closed" value="true" />
+      <created>1754055335985</created>
+      <option name="number" value="00554" />
+      <option name="presentableId" value="LOCAL-00554" />
+      <option name="project" value="LOCAL" />
+      <updated>1754055335985</updated>
+    </task>
+    <task id="LOCAL-00555" summary="Using Django authentication views&#10;Login and logout views">
+      <option name="closed" value="true" />
+      <created>1754055366150</created>
+      <option name="number" value="00555" />
+      <option name="presentableId" value="LOCAL-00555" />
+      <option name="project" value="LOCAL" />
+      <updated>1754055366150</updated>
+    </task>
+    <task id="LOCAL-00556" summary="Using Django authentication views&#10;Login and logout views">
+      <option name="closed" value="true" />
+      <created>1754055392200</created>
+      <option name="number" value="00556" />
+      <option name="presentableId" value="LOCAL-00556" />
+      <option name="project" value="LOCAL" />
+      <updated>1754055392200</updated>
+    </task>
+    <task id="LOCAL-00557" summary="Using Django authentication views&#10;Login and logout views">
+      <option name="closed" value="true" />
+      <created>1754055423511</created>
+      <option name="number" value="00557" />
+      <option name="presentableId" value="LOCAL-00557" />
+      <option name="project" value="LOCAL" />
+      <updated>1754055423511</updated>
+    </task>
+    <task id="LOCAL-00558" summary="Using Django authentication views&#10;Login and logout views">
+      <option name="closed" value="true" />
+      <created>1754055570841</created>
+      <option name="number" value="00558" />
+      <option name="presentableId" value="LOCAL-00558" />
+      <option name="project" value="LOCAL" />
+      <updated>1754055570841</updated>
+    </task>
+    <option name="localTasksCounter" value="559" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
