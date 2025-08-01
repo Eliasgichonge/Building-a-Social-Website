@@ -22,35 +22,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/bookmarks/account/admin.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/bookmarks/account/authentication.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/bookmarks/account/forms.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/bookmarks/account/models.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/bookmarks/account/static/css/base.css" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/bookmarks/account/templates/account/dashboard.html" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/bookmarks/account/templates/account/edit.html" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/bookmarks/account/templates/account/login.html" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/bookmarks/account/templates/account/register.html" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/bookmarks/account/templates/account/register_done.html" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/bookmarks/account/templates/base.html" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/bookmarks/account/templates/registration/logged_out.html" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/bookmarks/account/templates/registration/login.html" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/bookmarks/account/templates/registration/password_change_done.html" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/bookmarks/account/templates/registration/password_change_form.html" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/bookmarks/account/templates/registration/password_reset_complete.html" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/bookmarks/account/templates/registration/password_reset_confirm.html" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/bookmarks/account/templates/registration/password_reset_done.html" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/bookmarks/account/templates/registration/password_reset_email.html" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/bookmarks/account/templates/registration/password_reset_form.html" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/bookmarks/account/urls.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/bookmarks/account/views.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/bookmarks/bookmarks/settings.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/bookmarks/bookmarks/urls.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/bookmarks/images/admin.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/bookmarks/images/forms.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/bookmarks/images/models.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/bookmarks/images/templates/images/image/create.html" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/bookmarks/images/views.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -69,7 +41,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Elias M. Mwita/PycharmProjects/BuildingSocialWebsite"
+    "last_opened_file_path": "C:/Users/Elias M. Mwita/PycharmProjects/BuildingSocialWebsite",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -87,30 +60,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1753520400933</updated>
-    </task>
-    <task id="LOCAL-00478" summary="Posting content from other websites">
-      <option name="closed" value="true" />
-      <created>1753790113963</created>
-      <option name="number" value="00478" />
-      <option name="presentableId" value="LOCAL-00478" />
-      <option name="project" value="LOCAL" />
-      <updated>1753790113963</updated>
-    </task>
-    <task id="LOCAL-00479" summary="Posting content from other websites">
-      <option name="closed" value="true" />
-      <created>1753790133879</created>
-      <option name="number" value="00479" />
-      <option name="presentableId" value="LOCAL-00479" />
-      <option name="project" value="LOCAL" />
-      <updated>1753790133879</updated>
-    </task>
-    <task id="LOCAL-00480" summary="Posting content from other websites">
-      <option name="closed" value="true" />
-      <created>1753790143802</created>
-      <option name="number" value="00480" />
-      <option name="presentableId" value="LOCAL-00480" />
-      <option name="project" value="LOCAL" />
-      <updated>1753790143802</updated>
     </task>
     <task id="LOCAL-00481" summary="Posting content from other websites">
       <option name="closed" value="true" />
@@ -480,7 +429,31 @@
       <option name="project" value="LOCAL" />
       <updated>1754052413248</updated>
     </task>
-    <option name="localTasksCounter" value="527" />
+    <task id="LOCAL-00527" summary="Building a Social Website &#10;Creating a social website project &#10;Starting the social website project">
+      <option name="closed" value="true" />
+      <created>1754052448790</created>
+      <option name="number" value="00527" />
+      <option name="presentableId" value="LOCAL-00527" />
+      <option name="project" value="LOCAL" />
+      <updated>1754052448790</updated>
+    </task>
+    <task id="LOCAL-00528" summary="Building a Social Website &#10;Creating a social website project &#10;Starting the social website project">
+      <option name="closed" value="true" />
+      <created>1754052513131</created>
+      <option name="number" value="00528" />
+      <option name="presentableId" value="LOCAL-00528" />
+      <option name="project" value="LOCAL" />
+      <updated>1754052513131</updated>
+    </task>
+    <task id="LOCAL-00529" summary="Building a Social Website &#10;Creating a social website project &#10;Starting the social website project">
+      <option name="closed" value="true" />
+      <created>1754052630360</created>
+      <option name="number" value="00529" />
+      <option name="presentableId" value="LOCAL-00529" />
+      <option name="project" value="LOCAL" />
+      <updated>1754052630360</updated>
+    </task>
+    <option name="localTasksCounter" value="530" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
