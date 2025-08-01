@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df262373-843c-400c-b401-34bebca0af11" name="Changes" comment="Using Django authentication views&#10;Login and logout views">
-      <change beforePath="$PROJECT_DIR$/bookmarks/account/templates/account/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/bookmarks/account/templates/account/dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookmarks/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/bookmarks/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,54 +89,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1753520400933</updated>
-    </task>
-    <task id="LOCAL-00523" summary="starting a Fresh">
-      <option name="closed" value="true" />
-      <created>1754051756012</created>
-      <option name="number" value="00523" />
-      <option name="presentableId" value="LOCAL-00523" />
-      <option name="project" value="LOCAL" />
-      <updated>1754051756012</updated>
-    </task>
-    <task id="LOCAL-00524" summary="Building a Social Website &#10;Creating a social website project &#10;Starting the social website project">
-      <option name="closed" value="true" />
-      <created>1754052207810</created>
-      <option name="number" value="00524" />
-      <option name="presentableId" value="LOCAL-00524" />
-      <option name="project" value="LOCAL" />
-      <updated>1754052207810</updated>
-    </task>
-    <task id="LOCAL-00525" summary="Building a Social Website &#10;Creating a social website project &#10;Starting the social website project">
-      <option name="closed" value="true" />
-      <created>1754052275549</created>
-      <option name="number" value="00525" />
-      <option name="presentableId" value="LOCAL-00525" />
-      <option name="project" value="LOCAL" />
-      <updated>1754052275549</updated>
-    </task>
-    <task id="LOCAL-00526" summary="Building a Social Website &#10;Creating a social website project &#10;Starting the social website project">
-      <option name="closed" value="true" />
-      <created>1754052413248</created>
-      <option name="number" value="00526" />
-      <option name="presentableId" value="LOCAL-00526" />
-      <option name="project" value="LOCAL" />
-      <updated>1754052413248</updated>
-    </task>
-    <task id="LOCAL-00527" summary="Building a Social Website &#10;Creating a social website project &#10;Starting the social website project">
-      <option name="closed" value="true" />
-      <created>1754052448790</created>
-      <option name="number" value="00527" />
-      <option name="presentableId" value="LOCAL-00527" />
-      <option name="project" value="LOCAL" />
-      <updated>1754052448790</updated>
-    </task>
-    <task id="LOCAL-00528" summary="Building a Social Website &#10;Creating a social website project &#10;Starting the social website project">
-      <option name="closed" value="true" />
-      <created>1754052513131</created>
-      <option name="number" value="00528" />
-      <option name="presentableId" value="LOCAL-00528" />
-      <option name="project" value="LOCAL" />
-      <updated>1754052513131</updated>
     </task>
     <task id="LOCAL-00529" summary="Building a Social Website &#10;Creating a social website project &#10;Starting the social website project">
       <option name="closed" value="true" />
@@ -482,7 +434,55 @@
       <option name="project" value="LOCAL" />
       <updated>1754056649075</updated>
     </task>
-    <option name="localTasksCounter" value="572" />
+    <task id="LOCAL-00572" summary="Using Django authentication views&#10;Login and logout views">
+      <option name="closed" value="true" />
+      <created>1754056709845</created>
+      <option name="number" value="00572" />
+      <option name="presentableId" value="LOCAL-00572" />
+      <option name="project" value="LOCAL" />
+      <updated>1754056709845</updated>
+    </task>
+    <task id="LOCAL-00573" summary="Using Django authentication views&#10;Login and logout views">
+      <option name="closed" value="true" />
+      <created>1754056740886</created>
+      <option name="number" value="00573" />
+      <option name="presentableId" value="LOCAL-00573" />
+      <option name="project" value="LOCAL" />
+      <updated>1754056740886</updated>
+    </task>
+    <task id="LOCAL-00574" summary="Using Django authentication views&#10;Login and logout views">
+      <option name="closed" value="true" />
+      <created>1754056780545</created>
+      <option name="number" value="00574" />
+      <option name="presentableId" value="LOCAL-00574" />
+      <option name="project" value="LOCAL" />
+      <updated>1754056780545</updated>
+    </task>
+    <task id="LOCAL-00575" summary="Using Django authentication views&#10;Login and logout views">
+      <option name="closed" value="true" />
+      <created>1754056820215</created>
+      <option name="number" value="00575" />
+      <option name="presentableId" value="LOCAL-00575" />
+      <option name="project" value="LOCAL" />
+      <updated>1754056820215</updated>
+    </task>
+    <task id="LOCAL-00576" summary="Using Django authentication views&#10;Login and logout views">
+      <option name="closed" value="true" />
+      <created>1754056864038</created>
+      <option name="number" value="00576" />
+      <option name="presentableId" value="LOCAL-00576" />
+      <option name="project" value="LOCAL" />
+      <updated>1754056864038</updated>
+    </task>
+    <task id="LOCAL-00577" summary="Using Django authentication views&#10;Login and logout views">
+      <option name="closed" value="true" />
+      <created>1754056960841</created>
+      <option name="number" value="00577" />
+      <option name="presentableId" value="LOCAL-00577" />
+      <option name="project" value="LOCAL" />
+      <updated>1754056960841</updated>
+    </task>
+    <option name="localTasksCounter" value="578" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
