@@ -1,13 +1,12 @@
-from django.http import HttpResponse
+from django.shortcuts import render, redirect
 from django.contrib.auth import authenticate, login
-from .forms import LoginForm
-from django.shortcuts import render
 from django.contrib.auth.decorators import login_required
+from django.contrib import messages
+from .forms import LoginForm
 
 @login_required
 def dashboard(request):
     return render(request, 'account/dashboard.html', {'section': 'dashboard'})
-
 
 def user_login(request):
     if request.method == 'POST':
@@ -20,11 +19,14 @@ def user_login(request):
             if user is not None:
                 if user.is_active:
                     login(request, user)
-                    return HttpResponse('Authenticated successfully')
+                    messages.success(request, 'You have logged in successfully.')
+                    return redirect('dashboard')  # Redirect to dashboard after login
                 else:
-                    return HttpResponse('Disabled account')
+                    messages.error(request, 'Your account is disabled.')
             else:
-                return HttpResponse('Invalid login')
+                messages.error(request, 'Invalid username or password.')
+        else:
+            messages.error(request, 'Please correct the errors below.')
     else:
         form = LoginForm()
     return render(request, 'account/login.html', {'form': form})
