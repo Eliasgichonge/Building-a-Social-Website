@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df262373-843c-400c-b401-34bebca0af11" name="Changes" comment="starting a Fresh" />
+    <list default="true" id="df262373-843c-400c-b401-34bebca0af11" name="Changes" comment="Building a Social Website &#10;Creating a social website project &#10;Starting the social website project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,30 +87,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1753520400933</updated>
-    </task>
-    <task id="LOCAL-00475" summary="Creating many-to-many relationships">
-      <option name="closed" value="true" />
-      <created>1753789990375</created>
-      <option name="number" value="00475" />
-      <option name="presentableId" value="LOCAL-00475" />
-      <option name="project" value="LOCAL" />
-      <updated>1753789990375</updated>
-    </task>
-    <task id="LOCAL-00476" summary="Creating many-to-many relationships">
-      <option name="closed" value="true" />
-      <created>1753789999638</created>
-      <option name="number" value="00476" />
-      <option name="presentableId" value="LOCAL-00476" />
-      <option name="project" value="LOCAL" />
-      <updated>1753789999638</updated>
-    </task>
-    <task id="LOCAL-00477" summary="Creating many-to-many relationships">
-      <option name="closed" value="true" />
-      <created>1753790065065</created>
-      <option name="number" value="00477" />
-      <option name="presentableId" value="LOCAL-00477" />
-      <option name="project" value="LOCAL" />
-      <updated>1753790065065</updated>
     </task>
     <task id="LOCAL-00478" summary="Posting content from other websites">
       <option name="closed" value="true" />
@@ -480,11 +456,34 @@
       <option name="project" value="LOCAL" />
       <updated>1754051756012</updated>
     </task>
-    <option name="localTasksCounter" value="524" />
+    <task id="LOCAL-00524" summary="Building a Social Website &#10;Creating a social website project &#10;Starting the social website project">
+      <option name="closed" value="true" />
+      <created>1754052207810</created>
+      <option name="number" value="00524" />
+      <option name="presentableId" value="LOCAL-00524" />
+      <option name="project" value="LOCAL" />
+      <updated>1754052207810</updated>
+    </task>
+    <task id="LOCAL-00525" summary="Building a Social Website &#10;Creating a social website project &#10;Starting the social website project">
+      <option name="closed" value="true" />
+      <created>1754052275549</created>
+      <option name="number" value="00525" />
+      <option name="presentableId" value="LOCAL-00525" />
+      <option name="project" value="LOCAL" />
+      <updated>1754052275549</updated>
+    </task>
+    <task id="LOCAL-00526" summary="Building a Social Website &#10;Creating a social website project &#10;Starting the social website project">
+      <option name="closed" value="true" />
+      <created>1754052413248</created>
+      <option name="number" value="00526" />
+      <option name="presentableId" value="LOCAL-00526" />
+      <option name="project" value="LOCAL" />
+      <updated>1754052413248</updated>
+    </task>
+    <option name="localTasksCounter" value="527" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Creating a social website project" />
     <MESSAGE value="Starting the social website project" />
     <MESSAGE value="Using the Django authentication framework" />
     <MESSAGE value="Creating a login view" />
@@ -509,6 +508,7 @@
     <MESSAGE value="Posting content from other websites" />
     <MESSAGE value="Overriding the save() method of a ModelForm" />
     <MESSAGE value="starting a Fresh" />
-    <option name="LAST_COMMIT_MESSAGE" value="starting a Fresh" />
+    <MESSAGE value="Building a Social Website &#10;Creating a social website project &#10;Starting the social website project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Building a Social Website &#10;Creating a social website project &#10;Starting the social website project" />
   </component>
 </project>
