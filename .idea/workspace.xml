@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df262373-843c-400c-b401-34bebca0af11" name="Changes" comment="Building a Social Website &#10;Creating a social website project &#10;Starting the social website project" />
+    <list default="true" id="df262373-843c-400c-b401-34bebca0af11" name="Changes" comment="Using the Django authentication framework&#10;Creating a login view" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,15 +13,28 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Eliasgichonge"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Eliasgichonge/Building-a-Social-Website.git",
+    "accountId": "ac92c287-ef3e-4be4-86ec-85b0f2e065d9"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/bookmarks/account/forms.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/bookmarks/bookmarks/settings.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
@@ -37,12 +50,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/Elias M. Mwita/PycharmProjects/BuildingSocialWebsite",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": []
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -60,30 +78,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1753520400933</updated>
-    </task>
-    <task id="LOCAL-00481" summary="Posting content from other websites">
-      <option name="closed" value="true" />
-      <created>1753790153289</created>
-      <option name="number" value="00481" />
-      <option name="presentableId" value="LOCAL-00481" />
-      <option name="project" value="LOCAL" />
-      <updated>1753790153289</updated>
-    </task>
-    <task id="LOCAL-00482" summary="Posting content from other websites">
-      <option name="closed" value="true" />
-      <created>1753790164254</created>
-      <option name="number" value="00482" />
-      <option name="presentableId" value="LOCAL-00482" />
-      <option name="project" value="LOCAL" />
-      <updated>1753790164254</updated>
-    </task>
-    <task id="LOCAL-00483" summary="Posting content from other websites">
-      <option name="closed" value="true" />
-      <created>1753790174080</created>
-      <option name="number" value="00483" />
-      <option name="presentableId" value="LOCAL-00483" />
-      <option name="project" value="LOCAL" />
-      <updated>1753790174080</updated>
     </task>
     <task id="LOCAL-00484" summary="Posting content from other websites">
       <option name="closed" value="true" />
@@ -453,11 +447,34 @@
       <option name="project" value="LOCAL" />
       <updated>1754052630360</updated>
     </task>
-    <option name="localTasksCounter" value="530" />
+    <task id="LOCAL-00530" summary="Using the Django authentication framework&#10;Creating a login view">
+      <option name="closed" value="true" />
+      <created>1754052793560</created>
+      <option name="number" value="00530" />
+      <option name="presentableId" value="LOCAL-00530" />
+      <option name="project" value="LOCAL" />
+      <updated>1754052793560</updated>
+    </task>
+    <task id="LOCAL-00531" summary="Using the Django authentication framework&#10;Creating a login view">
+      <option name="closed" value="true" />
+      <created>1754052851789</created>
+      <option name="number" value="00531" />
+      <option name="presentableId" value="LOCAL-00531" />
+      <option name="project" value="LOCAL" />
+      <updated>1754052851789</updated>
+    </task>
+    <task id="LOCAL-00532" summary="Using the Django authentication framework&#10;Creating a login view">
+      <option name="closed" value="true" />
+      <created>1754052936715</created>
+      <option name="number" value="00532" />
+      <option name="presentableId" value="LOCAL-00532" />
+      <option name="project" value="LOCAL" />
+      <updated>1754052936715</updated>
+    </task>
+    <option name="localTasksCounter" value="533" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Starting the social website project" />
     <MESSAGE value="Using the Django authentication framework" />
     <MESSAGE value="Creating a login view" />
     <MESSAGE value="Using Django authentication views" />
@@ -482,6 +499,7 @@
     <MESSAGE value="Overriding the save() method of a ModelForm" />
     <MESSAGE value="starting a Fresh" />
     <MESSAGE value="Building a Social Website &#10;Creating a social website project &#10;Starting the social website project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Building a Social Website &#10;Creating a social website project &#10;Starting the social website project" />
+    <MESSAGE value="Using the Django authentication framework&#10;Creating a login view" />
+    <option name="LAST_COMMIT_MESSAGE" value="Using the Django authentication framework&#10;Creating a login view" />
   </component>
 </project>
