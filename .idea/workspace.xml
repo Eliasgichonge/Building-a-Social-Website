@@ -35,6 +35,7 @@
 }</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/bookmarks/account/forms.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/bookmarks/account/static/css/base.css" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/bookmarks/account/templates/account/login.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/bookmarks/account/templates/base.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/bookmarks/account/urls.py" root0="SKIP_INSPECTION" />
@@ -82,30 +83,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1753520400933</updated>
-    </task>
-    <task id="LOCAL-00500" summary="Overriding the save() method of a ModelForm">
-      <option name="closed" value="true" />
-      <created>1753791088755</created>
-      <option name="number" value="00500" />
-      <option name="presentableId" value="LOCAL-00500" />
-      <option name="project" value="LOCAL" />
-      <updated>1753791088755</updated>
-    </task>
-    <task id="LOCAL-00501" summary="Overriding the save() method of a ModelForm">
-      <option name="closed" value="true" />
-      <created>1753791134374</created>
-      <option name="number" value="00501" />
-      <option name="presentableId" value="LOCAL-00501" />
-      <option name="project" value="LOCAL" />
-      <updated>1753791134374</updated>
-    </task>
-    <task id="LOCAL-00502" summary="Overriding the save() method of a ModelForm">
-      <option name="closed" value="true" />
-      <created>1753791146494</created>
-      <option name="number" value="00502" />
-      <option name="presentableId" value="LOCAL-00502" />
-      <option name="project" value="LOCAL" />
-      <updated>1753791146494</updated>
     </task>
     <task id="LOCAL-00503" summary="Overriding the save() method of a ModelForm">
       <option name="closed" value="true" />
@@ -475,7 +452,31 @@
       <option name="project" value="LOCAL" />
       <updated>1754054535977</updated>
     </task>
-    <option name="localTasksCounter" value="549" />
+    <task id="LOCAL-00549" summary="Using the Django authentication framework&#10;Creating a login view">
+      <option name="closed" value="true" />
+      <created>1754054707812</created>
+      <option name="number" value="00549" />
+      <option name="presentableId" value="LOCAL-00549" />
+      <option name="project" value="LOCAL" />
+      <updated>1754054707812</updated>
+    </task>
+    <task id="LOCAL-00550" summary="Using the Django authentication framework&#10;Creating a login view">
+      <option name="closed" value="true" />
+      <created>1754054760413</created>
+      <option name="number" value="00550" />
+      <option name="presentableId" value="LOCAL-00550" />
+      <option name="project" value="LOCAL" />
+      <updated>1754054760413</updated>
+    </task>
+    <task id="LOCAL-00551" summary="Using the Django authentication framework&#10;Creating a login view">
+      <option name="closed" value="true" />
+      <created>1754054794654</created>
+      <option name="number" value="00551" />
+      <option name="presentableId" value="LOCAL-00551" />
+      <option name="project" value="LOCAL" />
+      <updated>1754054794654</updated>
+    </task>
+    <option name="localTasksCounter" value="552" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
