@@ -88,14 +88,6 @@
       <option name="presentableId" value="Default" />
       <updated>1753520400933</updated>
     </task>
-    <task id="LOCAL-00533" summary="Using the Django authentication framework&#10;Creating a login view">
-      <option name="closed" value="true" />
-      <created>1754053407350</created>
-      <option name="number" value="00533" />
-      <option name="presentableId" value="LOCAL-00533" />
-      <option name="project" value="LOCAL" />
-      <updated>1754053407350</updated>
-    </task>
     <task id="LOCAL-00534" summary="Using the Django authentication framework&#10;Creating a login view">
       <option name="closed" value="true" />
       <created>1754053733369</created>
@@ -480,7 +472,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754057983219</updated>
     </task>
-    <option name="localTasksCounter" value="582" />
+    <task id="LOCAL-00582" summary="Using Django authentication views&#10;Login and logout views">
+      <option name="closed" value="true" />
+      <created>1754058429841</created>
+      <option name="number" value="00582" />
+      <option name="presentableId" value="LOCAL-00582" />
+      <option name="project" value="LOCAL" />
+      <updated>1754058429841</updated>
+    </task>
+    <option name="localTasksCounter" value="583" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
