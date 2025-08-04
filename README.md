@@ -124,7 +124,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 **Elias Mang'era Mwita**
 Mbeya University of Science and Technology
-Email: \[[your-email@example.com](mailto:eliasmwita86@gmail.com)]
+Email: \[[eliasmwiat86@gmail.com](mailto:eliasmwita86@gmail.com)]
 
 ```
 
